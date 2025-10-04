@@ -1,6 +1,6 @@
 // CONFIG
-const SHEET_WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbznPkMpl4pUYNqtOL-_5E0MGwOoBoo4acHQ2qeXOlKBwLripBmL-l83XkOEaJscBhBOIQ/exec";
-const SUBMIT_SECRET = "!@ghfjrcx";  // harus sama dengan Apps Script
+const SHEET_WEBHOOK_URL = "https://script.google.com/macdas asfasdsadasdros/s/AKfycbznPkMpl4pUYNqtOL-_5E0MGwOoBoo4acHQ2qeXOlKBwLripBmL-l83XkOEaJscBhBOIQ/exec";
+const SUBMIT_SECRET = "!@ghfjdasdarcx";  // harus sama dengan Apps Script
 
 // GAME CONFIG
 const BOARD_SIZE = 8;
